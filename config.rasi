@@ -1,0 +1,10 @@
+ /** Basic Config File **/
+
+configuration {
+	show-icons: true;
+	icone-theme: "Nordzy-dark";
+	display-window: "Windows";
+	display-drun: "Apps";
+	display-combi: "Combi";
+}
+@theme "themes/nord.rasi"
