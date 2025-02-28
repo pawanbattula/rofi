@@ -7,4 +7,4 @@ configuration {
 	display-drun: "Apps";
 	display-combi: "Combi";
 }
-@theme "themes/nord.rasi"
+@theme "/nord.rasi"
